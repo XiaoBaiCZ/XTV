@@ -51,11 +51,6 @@ dependencies {
 
     api 'androidx.constraintlayout:constraintlayout:2.1.4'
 
-    //room
-    api 'androidx.room:room-ktx:2.4.2'
-    //kapt
-    kapt 'androidx.room:room-compiler:2.4.2'
-
     // data store
     api "androidx.datastore:datastore-preferences:1.0.0"
 
