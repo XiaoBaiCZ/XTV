@@ -16,3 +16,4 @@ rootProject.name = "XTV"
 include ':xtv'
 include ':sdk'
 include ':common'
+include ':suspend-call-adapter'
